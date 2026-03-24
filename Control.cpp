@@ -109,3 +109,12 @@ void procCambio(){
 void procCopia(){
 
 }
+
+//
+int main(){
+    //lecturas
+    while (!(per.fin && mov.fin)){
+        procActualizacion();
+    }
+    //fin
+}
