@@ -1,6 +1,19 @@
-002 ALTA VALIDO
-003 ALTA INVALIDO
-005 BAJA VALIDO
-006 BAJA INVALIDO
-007 CAMBIO VALIDO
-008 CAMBIO INVALIDO
+PROG0001                       ACTUALIZACION DEL ARCHIVO DE PERSONAL       HOJA 0001
+
+ACME - DIV. BANCOS                MOVIMIENTOS EFECTUADOS
+PERSONAL
+
+        TRABAJADOR          MOVIMIENTO EFECTUADO
+        ----------          --------------------
+        002                 A L T A
+
+        003                 ALTA NO EXITOSA
+
+        005                 B A J A
+
+        006                 BAJA NO EXITOSA
+
+        007                 C A M B I O
+
+        008                 CAMBIO NO EXITOSO
+
